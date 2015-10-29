@@ -4,7 +4,6 @@ var webpack = require('webpack');
 var CommonsChunkPlugin = webpack.optimize.CommonsChunkPlugin;
 
 module.exports = {
-
     entry: {
         mui: './index.js',
         tagsInput: './js/reactTagsInputPage.js',
@@ -20,7 +19,12 @@ module.exports = {
     },
     externals: {
         "react": "React",
-        "react-dom": "ReactDOM"
+        "react-dom": "ReactDOM",
+        "react-addons-transition-group":"ReactTransitionGroup",
+        "react-addons-pure-render-mixin":"PureRenderMixin",
+        "react-addons-update":"update",
+        "react-addons-create-fragment":"createFragment",
+        "react-tap-event-plugin":"injectTapEventPlugin"
     },
     plugins: [
         new webpack.NoErrorsPlugin(),
