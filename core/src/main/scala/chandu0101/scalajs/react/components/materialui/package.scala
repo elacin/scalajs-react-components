@@ -74,15 +74,17 @@ package object materialui {
     val AutoPrefix: js.Dynamic = js.native
     val Colors: js.Dynamic = js.native
     val Spacing: js.Dynamic = js.native
-    val ThemeManager: js.Dynamic = js.native
+    val ThemeManager: ThemeManager = js.native
     val Typography: js.Dynamic = js.native
     val Transitions: js.Dynamic = js.native
+    val LightRawTheme: js.Dynamic = js.native
+    val DarkRawTheme: js.Dynamic = js.native
   }
 
   @js.native
   trait ThemeManager extends js.Object {
 
-    def getCurrentTheme(): js.Dynamic = js.native
+    def getMuiTheme(rawTheme:js.Dynamic): js.Dynamic = js.native
 
     def setTheme(newTheme: js.Dynamic): Unit = js.native
 
@@ -93,16 +95,11 @@ package object materialui {
     val types :js.Dynamic = js.native
   }
 
-  // I'm getting this error when the val is named ThemeManager:
-  // scalajs-react-components\core\src\main\scala\chandu0101\scalajs\react\components\materialui\package.scala:96:
-  // ThemeManager is already defined as (compiler-generated) case class companion object ThemeManager
-  lazy val themeManager = js.Dynamic.newInstance(Mui.Styles.ThemeManager)().asInstanceOf[ThemeManager]
-
   def installMuiContext[P, S, B, N <: TopNode]: ReactComponentSpec[P, S, B, N] => Callback =
     spec => Callback {
       val t = spec.asInstanceOf[js.Dynamic]
       t.updateDynamic("childContextTypes")(js.Dynamic.literal("muiTheme" -> React.asInstanceOf[js.Dynamic].PropTypes.`object`): js.Object)
-      t.updateDynamic("getChildContext")((() => js.Dynamic.literal("muiTheme" -> themeManager.getCurrentTheme())): js.Function)
+      t.updateDynamic("getChildContext")((() => js.Dynamic.literal("muiTheme" -> Mui.Styles.ThemeManager.getMuiTheme(Mui.Styles.LightRawTheme))): js.Function)
     }
 
 }
