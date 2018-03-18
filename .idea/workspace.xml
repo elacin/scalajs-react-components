@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97fda457-637b-44c4-bfaa-0e513a65d3ac" name="Default" comment="" />
+    <ignored path="scalajs-react-components.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/core/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/core/project/target/" />
+    <ignored path="$PROJECT_DIR$/demo/assets/" />
+    <ignored path="$PROJECT_DIR$/demo/js/" />
+    <ignored path="$PROJECT_DIR$/demo/node_modules/" />
+    <ignored path="$PROJECT_DIR$/demo/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/demo/project/target/" />
+    <ignored path="$PROJECT_DIR$/macros/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/macros/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/core/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/macros/target/" />
+    <ignored path="$PROJECT_DIR$/gen/target/" />
+    <ignored path="$PROJECT_DIR$/gen/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/gen/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="scalajs-react-components" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="scalajs-react-components" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="ScalaTest Class" />
+        <option value="Scala Worksheet" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>react-tagsinput</find>
+      <find>test</find>
+      <find>writeTestBundleFunction</find>
+      <find>2.12</find>
+      <find>yarn</find>
+      <find>global</find>
+      <find>g</find>
+      <find>g.</find>
+      <find>reactSplitPaneImage</find>
+      <find>bundle</find>
+      <find>JsonUtil</find>
+      <find>RefHolder</find>
+      <find>ref</find>
+      <find>first</find>
+      <find>devel</find>
+      <find>contributor</find>
+      <find>0.6.1</find>
+      <find>interface</find>
+      <find>reloadWo</find>
+      <find>Welcome Mama</find>
+      <find>deploy</find>
+      <find>implicit</find>
+      <find>webpack-dev-server</find>
+      <find>isOptional</find>
+      <find>generic</find>
+      <find>onClick</find>
+      <find>click</find>
+      <find>onItemClick</find>
+      <find>2.11.1</find>
+      <find>webpack</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>15.4.1</replace>
+      <replace>15.2.0</replace>
+      <replace>15.3.1</replace>
+      <replace>js.Function3[String, String, Any, Boolean]</replace>
+      <replace>Any</replace>
+      <replace>VdomNode</replace>
+      <replace>BackendScope[Unit, Unit]</replace>
+      <replace>BackendScope[Props, Unit]</replace>
+      <replace>./</replace>
+      <replace>JSImport(&quot;material-ui$2&quot;, &quot;default&quot;) object $1 extends MuiSvgIcon</replace>
+      <replace>JSImport(&quot;material-ui/$2&quot;, &quot;default&quot;) object $1 extends MuiSvgIcon</replace>
+      <replace>JSImport.Default</replace>
+      <replace>@JSImport(&quot;material-ui/svg-icons/</replace>
+      <replace>@js.native @JSImport(&quot;material-ui/svg-icons</replace>
+      <replace>elemental</replace>
+      <replace>elemental/lib/components</replace>
+      <replace>`inline`</replace>
+      <replace>`inline`:</replace>
+      <replace>VdomElement</replace>
+      <replace>js.Any</replace>
+      <replace>ReactMouseEvent</replace>
+      <replace>2.6.1</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/materialui</dir>
+      <dir>$PROJECT_DIR$/demo/src/main</dir>
+      <dir>$PROJECT_DIR$/gen</dir>
+      <dir>$PROJECT_DIR$/core</dir>
+      <dir>$PROJECT_DIR$/demo/src/main/scala</dir>
+      <dir>$PROJECT_DIR$/gen/target/scala-2.12/scalajs-bundler/main/node_modules/elemental/lib/components</dir>
+      <dir>$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/reactselect</dir>
+      <dir>$PROJECT_DIR$/demo/src</dir>
+      <dir>$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components</dir>
+      <dir>$PROJECT_DIR$/demo/src/main/scala/demo</dir>
+      <dir>$PROJECT_DIR$/core/src/main</dir>
+      <dir>$PROJECT_DIR$/demo</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactTagsInput.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/materialui/MuiInfo.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/materialui/MuiAutoCompleteFilters.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactSearchBox.scala" />
+        <option value="$PROJECT_DIR$/macros/src/test/scala/chandu0101/macros/tojs/JSMacroTest.scala" />
+        <option value="$PROJECT_DIR$/demo/webpack.config.test.js" />
+        <option value="$PROJECT_DIR$/demo/bundles/react-split-pane.js" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/reactsplitpane/ReactSplitPane.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/elementalui/EuiFormsDemo.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/routes/AppRouter.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/pages/ReactSplitPanePage.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/reacttable/ReactTableBasic.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/reacttable/ReactTableCustomCell.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/reacttable/ReactTableCustomColumnSize.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/ReactTagsInputDemo.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/helpers.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/Images.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/ComponentCredits.scala" />
+        <option value="$PROJECT_DIR$/doc/CHANGELOG-1.0.md" />
+        <option value="$PROJECT_DIR$/doc/CHANGELOG_0.7.md" />
+        <option value="$PROJECT_DIR$/project/Build.scala" />
+        <option value="$PROJECT_DIR$/doc/CHANGELOG_0.8.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/ReactInfiniteInfo.scala" />
+        <option value="$PROJECT_DIR$/demo/target/scala-2.12/scalajs-bundler/main/index.html" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/pages/HomePage.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/AppCSS.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/hljs/Hljs.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/ReactApp.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/util/SampleData.scala" />
+        <option value="$PROJECT_DIR$/demo/index.html" />
+        <option value="$PROJECT_DIR$/demo/webpack.config.prod.js" />
+        <option value="$PROJECT_DIR$/demo/webpack.config.shared.js" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/CodeHighlight.scala" />
+        <option value="$PROJECT_DIR$/demo/target/scala-2.12/scalajs-bundler/main/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/demo/webpack.config.dev.js" />
+        <option value="$PROJECT_DIR$/project/build.properties" />
+        <option value="$PROJECT_DIR$/gen/target/scala-2.12/scalajs-bundler/main/package.json" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/package.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactDraggable.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactListView.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactTreeView.scala" />
+        <option value="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/Implicits.scala" />
+        <option value="$PROJECT_DIR$/gen/src/main/scala/com/olvind/printers.scala" />
+        <option value="$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiCheckbox.scala" />
+        <option value="$PROJECT_DIR$/macros/src/main/scala/chandu0101/macros/tojs/JSMacro.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/CallbackDebug.scala" />
+        <option value="$PROJECT_DIR$/demo/src/main/scala/demo/components/materialui/MuiMenuDemo.scala" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/project/plugins.sbt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/demo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/gen/target/scala-2.12/scalajs-bundler/main/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1290" />
+    <option name="height" value="1733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="src_managed" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="materialui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scalajs-react-components" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scalajs-react-components" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="180" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="181" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="183" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="824" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="219" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="220" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="224" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="705" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="implicit&#9;ACTION&#9;Scala.ShowImplicitParameters&#10;sbt&#9;ACTION&#9;ActivateSBTToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/demo/assets/material_ui-bundle.js" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="ScalaTest" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="js-jscs-package" value="/usr/local/lib/node_modules/jscs" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/demo/src/main/scala/demo/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sb1_foredrag" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.445977" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chandu0101.macros.tojs" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.FunSuite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/demo/" />
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/demo/bundles" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="demo.components" />
+      <recent name="chandu0101.scalajs.react.components" />
+      <recent name="chandu0101.scalajs.react.components.ReactTapEventPlugin" />
+      <recent name="demo" />
+      <recent name="chandu0101.scalajs.react.components.materialui.raw" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.components.materialui" />
+      <recent name="demo.components.reactselect" />
+      <recent name="demo.pages" />
+      <recent name="demo.routes" />
+      <recent name="demo.components.spinner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc" />
+      <recent name="$PROJECT_DIR$/demo" />
+      <recent name="$PROJECT_DIR$/demo/bundles" />
+      <recent name="$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="SuiRunner" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.olvind.sui.SuiRunner" />
+      <module name="gen" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/gen/target/scala-2.12/scalajs-bundler/main/node_modules/semantic-ui-react/dist/commonjs /tmp" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.olvind.sui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="core" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SuiRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1521316710756" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scalajs-react-components" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="core" />
+                <option name="path" value="$PROJECT_DIR$/core" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="demo" />
+                <option name="path" value="$PROJECT_DIR$/demo" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="gen" />
+                <option name="path" value="$PROJECT_DIR$/gen" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="macros" />
+                <option name="path" value="$PROJECT_DIR$/macros" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="root-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="core-build" />
+                <option name="path" value="$PROJECT_DIR$/core/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="demo-build" />
+                <option name="path" value="$PROJECT_DIR$/demo/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="gen-build" />
+                <option name="path" value="$PROJECT_DIR$/gen/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="macros-build" />
+                <option name="path" value="$PROJECT_DIR$/macros/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="collectionTypeHighlightingLevel" value="1" />
+    <option name="includeLiterals" value="true" />
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="showArgumentsToByNameParams" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97fda457-637b-44c4-bfaa-0e513a65d3ac" name="Default" comment="" />
+      <created>1445861340936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1445861340936</updated>
+      <workItem from="1445861343315" duration="5000" />
+      <workItem from="1445973207204" duration="2531000" />
+      <workItem from="1445976396101" duration="10286000" />
+      <workItem from="1445996150358" duration="724000" />
+      <workItem from="1446065691297" duration="250000" />
+      <workItem from="1446065975099" duration="7123000" />
+      <workItem from="1446206525608" duration="7000" />
+      <workItem from="1446591390369" duration="4456000" />
+      <workItem from="1446734139722" duration="14168000" />
+      <workItem from="1446767696707" duration="7960000" />
+      <workItem from="1446834044746" duration="7256000" />
+      <workItem from="1446850003817" duration="19505000" />
+      <workItem from="1447009600407" duration="15808000" />
+      <workItem from="1447032216775" duration="5664000" />
+      <workItem from="1447106013890" duration="18272000" />
+      <workItem from="1447206396062" duration="597000" />
+      <workItem from="1447355869866" duration="17040000" />
+      <workItem from="1447713372743" duration="15427000" />
+      <workItem from="1447729785068" duration="4176000" />
+      <workItem from="1447796927064" duration="3761000" />
+      <workItem from="1447802569570" duration="8492000" />
+      <workItem from="1447880160956" duration="111000" />
+      <workItem from="1447880297595" duration="7326000" />
+      <workItem from="1448113643755" duration="3533000" />
+      <workItem from="1448124098445" duration="20216000" />
+      <workItem from="1448318999891" duration="6381000" />
+      <workItem from="1448501418180" duration="759000" />
+      <workItem from="1448530210865" duration="1000" />
+      <workItem from="1448717846253" duration="5082000" />
+      <workItem from="1448724353607" duration="13277000" />
+      <workItem from="1448754095954" duration="28000" />
+      <workItem from="1448757933895" duration="36348000" />
+      <workItem from="1448843371827" duration="1237000" />
+      <workItem from="1448847482652" duration="5079000" />
+      <workItem from="1448930083709" duration="4111000" />
+      <workItem from="1449361121197" duration="1391000" />
+      <workItem from="1449430368362" duration="878000" />
+      <workItem from="1449524789309" duration="1825000" />
+      <workItem from="1450027043790" duration="5637000" />
+      <workItem from="1450137314080" duration="46000" />
+      <workItem from="1450137372974" duration="2115000" />
+      <workItem from="1450187123723" duration="1918000" />
+      <workItem from="1450393500314" duration="1816000" />
+      <workItem from="1450395408894" duration="997000" />
+      <workItem from="1450396521965" duration="8199000" />
+      <workItem from="1450542909573" duration="1942000" />
+      <workItem from="1450634910644" duration="1291000" />
+      <workItem from="1450638639461" duration="1707000" />
+      <workItem from="1450646461818" duration="10365000" />
+      <workItem from="1450659312314" duration="118000" />
+      <workItem from="1450659539111" duration="770000" />
+      <workItem from="1450660542234" duration="4183000" />
+      <workItem from="1450664777355" duration="2431000" />
+      <workItem from="1450667272627" duration="2985000" />
+      <workItem from="1450709922581" duration="560000" />
+      <workItem from="1450711838307" duration="1189000" />
+      <workItem from="1450806085145" duration="600000" />
+      <workItem from="1450806886340" duration="182000" />
+      <workItem from="1450828560166" duration="9000000" />
+      <workItem from="1451000276122" duration="2562000" />
+      <workItem from="1451003942020" duration="45000" />
+      <workItem from="1451004027316" duration="3711000" />
+      <workItem from="1451059036065" duration="26000" />
+      <workItem from="1451059151549" duration="18000" />
+      <workItem from="1451059190999" duration="663000" />
+      <workItem from="1451059891213" duration="1244000" />
+      <workItem from="1451073796099" duration="179000" />
+      <workItem from="1451073994326" duration="1458000" />
+      <workItem from="1451078666717" duration="1981000" />
+      <workItem from="1451088455114" duration="48000" />
+      <workItem from="1451088710261" duration="170000" />
+      <workItem from="1451089018315" duration="222000" />
+      <workItem from="1451089377262" duration="10000" />
+      <workItem from="1451089616240" duration="134000" />
+      <workItem from="1451895688746" duration="8000" />
+      <workItem from="1452301418172" duration="2340000" />
+      <workItem from="1452304390077" duration="7138000" />
+      <workItem from="1452555761227" duration="216000" />
+      <workItem from="1452886629326" duration="1063000" />
+      <workItem from="1453157375655" duration="10599000" />
+      <workItem from="1453311364754" duration="23016000" />
+      <workItem from="1453379469469" duration="33714000" />
+      <workItem from="1453704062737" duration="3644000" />
+      <workItem from="1453716853005" duration="299000" />
+      <workItem from="1453738090895" duration="10077000" />
+      <workItem from="1453750211399" duration="15205000" />
+      <workItem from="1453851092226" duration="609000" />
+      <workItem from="1454092566380" duration="1110000" />
+      <workItem from="1454255755589" duration="8000" />
+      <workItem from="1454862819045" duration="2151000" />
+      <workItem from="1454867798265" duration="1650000" />
+      <workItem from="1454872639495" duration="10494000" />
+      <workItem from="1454885278855" duration="1480000" />
+      <workItem from="1455013008522" duration="57000" />
+      <workItem from="1455013111321" duration="109000" />
+      <workItem from="1455149364480" duration="593000" />
+      <workItem from="1455228721063" duration="654000" />
+      <workItem from="1455640274993" duration="315000" />
+      <workItem from="1456354522256" duration="830000" />
+      <workItem from="1456605884625" duration="1202000" />
+      <workItem from="1456607134730" duration="643000" />
+      <workItem from="1456692646039" duration="2073000" />
+      <workItem from="1456705994227" duration="598000" />
+      <workItem from="1457486348813" duration="528000" />
+      <workItem from="1457545884057" duration="7024000" />
+      <workItem from="1457556553364" duration="915000" />
+      <workItem from="1459133139401" duration="204000" />
+      <workItem from="1459133593847" duration="4028000" />
+      <workItem from="1459437446698" duration="132000" />
+      <workItem from="1459452503354" duration="840000" />
+      <workItem from="1459981793438" duration="108000" />
+      <workItem from="1459982176935" duration="1704000" />
+      <workItem from="1461111090194" duration="561000" />
+      <workItem from="1461143592440" duration="325000" />
+      <workItem from="1461612540422" duration="1062000" />
+      <workItem from="1462355369850" duration="3800000" />
+      <workItem from="1463182847841" duration="304000" />
+      <workItem from="1463232142984" duration="14011000" />
+      <workItem from="1463254388783" duration="7182000" />
+      <workItem from="1463276400033" duration="4079000" />
+      <workItem from="1463558525913" duration="53000" />
+      <workItem from="1463833843472" duration="9087000" />
+      <workItem from="1464036061400" duration="8464000" />
+      <workItem from="1464118261691" duration="2356000" />
+      <workItem from="1464529459767" duration="853000" />
+      <workItem from="1466187180058" duration="1585000" />
+      <workItem from="1466192191959" duration="644000" />
+      <workItem from="1466818237469" duration="1934000" />
+      <workItem from="1467364930602" duration="39258000" />
+      <workItem from="1467804910875" duration="26017000" />
+      <workItem from="1468492358450" duration="2036000" />
+      <workItem from="1469322522127" duration="547000" />
+      <workItem from="1469323222077" duration="340000" />
+      <workItem from="1469478874439" duration="2423000" />
+      <workItem from="1469802470082" duration="1929000" />
+      <workItem from="1469832240191" duration="211000" />
+      <workItem from="1469834116779" duration="515000" />
+      <workItem from="1469855685276" duration="5068000" />
+      <workItem from="1469899731156" duration="7269000" />
+      <workItem from="1469920517448" duration="2438000" />
+      <workItem from="1470154070063" duration="2377000" />
+      <workItem from="1472987889638" duration="2339000" />
+      <workItem from="1475870341521" duration="3911000" />
+      <workItem from="1476747013623" duration="954000" />
+      <workItem from="1477140809261" duration="1944000" />
+      <workItem from="1480896166167" duration="8269000" />
+      <workItem from="1486777623472" duration="3000" />
+      <workItem from="1487708233299" duration="20390000" />
+      <workItem from="1487869528432" duration="8581000" />
+      <workItem from="1487883378826" duration="1542000" />
+      <workItem from="1488024051393" duration="3601000" />
+      <workItem from="1489008654832" duration="1146000" />
+      <workItem from="1489018833816" duration="1605000" />
+      <workItem from="1489430857628" duration="1456000" />
+      <workItem from="1489605142520" duration="1267000" />
+      <workItem from="1494020687212" duration="2069000" />
+      <workItem from="1494439783204" duration="826000" />
+      <workItem from="1494787205089" duration="47000" />
+      <workItem from="1496182472355" duration="8030000" />
+      <workItem from="1496354590412" duration="116000" />
+      <workItem from="1496354794260" duration="3086000" />
+      <workItem from="1496358732275" duration="1394000" />
+      <workItem from="1497206998575" duration="2319000" />
+      <workItem from="1497222593518" duration="13882000" />
+      <workItem from="1497311662625" duration="14046000" />
+      <workItem from="1497699716008" duration="1337000" />
+      <workItem from="1497705801620" duration="22000" />
+      <workItem from="1497706029013" duration="32712000" />
+      <workItem from="1497896763916" duration="12452000" />
+      <workItem from="1497909690633" duration="3467000" />
+      <workItem from="1498505580979" duration="38000" />
+      <workItem from="1498505653506" duration="2283000" />
+      <workItem from="1498765792106" duration="1805000" />
+      <workItem from="1501518562901" duration="15243000" />
+      <workItem from="1501573954062" duration="19000" />
+      <workItem from="1502135604102" duration="217000" />
+      <workItem from="1502627299815" duration="20139000" />
+      <workItem from="1502659270385" duration="978000" />
+      <workItem from="1502660435754" duration="2793000" />
+      <workItem from="1503531006857" duration="3583000" />
+      <workItem from="1504552322872" duration="10026000" />
+      <workItem from="1506460383439" duration="10503000" />
+      <workItem from="1506688880117" duration="5055000" />
+      <workItem from="1509283234327" duration="1380000" />
+      <workItem from="1509398979436" duration="622000" />
+      <workItem from="1517177667279" duration="768000" />
+      <workItem from="1521315151129" duration="17526000" />
+    </task>
+    <task id="LOCAL-00237" summary="have bundler download js we generate from (part one)">
+      <created>1497301176270</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1497301176280</updated>
+    </task>
+    <task id="LOCAL-00238" summary="have bundler download js we generate from">
+      <created>1497308598007</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1497308598007</updated>
+    </task>
+    <task id="LOCAL-00239" summary="have bundler download js we generate from">
+      <created>1497308726517</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1497308726517</updated>
+    </task>
+    <task id="LOCAL-00240" summary="have bundler download js we generate from">
+      <created>1497308819309</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1497308819309</updated>
+    </task>
+    <task id="LOCAL-00241" summary="move CallbackDebug.scala back to demo">
+      <created>1497714083656</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1497714083658</updated>
+    </task>
+    <task id="LOCAL-00242" summary="fix mutable refs">
+      <created>1497714157911</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1497714157911</updated>
+    </task>
+    <task id="LOCAL-00243" summary="place generated sources in correct directory, make generator a bit more tolerant to errors, make generator create output folder on startup, start process of feeding a list of generated files back, kill Implicits.scala and add a bunch of js.defined to demos instead (for now at least),">
+      <created>1497726349824</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1497726349824</updated>
+    </task>
+    <task id="LOCAL-00244" summary="wip">
+      <created>1497894659811</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1497894659811</updated>
+    </task>
+    <task id="LOCAL-00245" summary="added highlight.js facade">
+      <created>1497904092619</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1497904092620</updated>
+    </task>
+    <task id="LOCAL-00246" summary="imports wip">
+      <created>1497904150815</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1497904150815</updated>
+    </task>
+    <task id="LOCAL-00247" summary="fix SuiIconType">
+      <created>1497905380408</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1497905380408</updated>
+    </task>
+    <task id="LOCAL-00248" summary="same fix again">
+      <created>1497907775616</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1497907775616</updated>
+    </task>
+    <task id="LOCAL-00249" summary="optimize imports, while were at it">
+      <created>1497908392829</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1497908392829</updated>
+    </task>
+    <task id="LOCAL-00250" summary="more imports, scalafmt">
+      <created>1497909341970</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1497909341970</updated>
+    </task>
+    <task id="LOCAL-00251" summary="reformat with scalafmt">
+      <created>1501519189885</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1501519189886</updated>
+    </task>
+    <task id="LOCAL-00252" summary="bump deps">
+      <created>1501520981730</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1501520981730</updated>
+    </task>
+    <task id="LOCAL-00253" summary="bump deps">
+      <created>1501522068892</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1501522068892</updated>
+    </task>
+    <task id="LOCAL-00254" summary="kill react-select and react-slick, as they are too outdated and i have no time to update them">
+      <created>1501534055139</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1501534055139</updated>
+    </task>
+    <task id="LOCAL-00255" summary="fixup update deps">
+      <created>1501534071051</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1501534071051</updated>
+    </task>
+    <task id="LOCAL-00256" summary="restore macro test">
+      <created>1501534080998</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1501534080998</updated>
+    </task>
+    <task id="LOCAL-00257" summary="fix geom-icon, infinite, tags-input, spinner with JSImport. Fix bug in react-table">
+      <created>1501537144106</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1501537144106</updated>
+    </task>
+    <task id="LOCAL-00258" summary="continue work on using imports, prod webpack config, fix draggable component">
+      <created>1502632701575</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1502632701576</updated>
+    </task>
+    <task id="LOCAL-00259" summary="continue work on using imports, prod webpack config, fix draggable component, trim languages from hljs, fix popover">
+      <created>1502638222479</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1502638222479</updated>
+    </task>
+    <task id="LOCAL-00260" summary="fix tests">
+      <created>1502660215099</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1502660215099</updated>
+    </task>
+    <task id="LOCAL-00261" summary="lets see if travis want to cooperate">
+      <created>1502660715686</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1502660715686</updated>
+    </task>
+    <task id="LOCAL-00262" summary="lets see without yarn then">
+      <created>1502660835342</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1502660835342</updated>
+    </task>
+    <task id="LOCAL-00263" summary="can i have newer node?">
+      <created>1502661486434</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1502661486434</updated>
+    </task>
+    <task id="LOCAL-00264" summary="ok, lets try something else">
+      <created>1502661792934</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1502661792934</updated>
+    </task>
+    <task id="LOCAL-00265" summary="bump scala.js plugin while we're at it">
+      <created>1503531119547</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1503531119548</updated>
+    </task>
+    <task id="LOCAL-00266" summary="add credits in pom">
+      <created>1503531132880</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1503531132880</updated>
+    </task>
+    <task id="LOCAL-00267" summary="bump readme">
+      <created>1503532798969</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1503532798969</updated>
+    </task>
+    <task id="LOCAL-00268" summary="blind travis debugging">
+      <created>1504554266803</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1504554266803</updated>
+    </task>
+    <task id="LOCAL-00269" summary="sudo">
+      <created>1504554443271</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1504554443272</updated>
+    </task>
+    <task id="LOCAL-00270" summary="Reorganizing everything: Including the generator in the project, use @JSImport with scalajs-bundler, upgrade mui/sui/eui versions, kill react-select and react-slick as they are too outdated and i have no time to update them">
+      <created>1504559981395</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1504559981395</updated>
+    </task>
+    <task id="LOCAL-00271" summary="Version 1.0.0-M1">
+      <created>1504560771999</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1504560771999</updated>
+    </task>
+    <task id="LOCAL-00272" summary="Version 1.0.0-M1">
+      <created>1504560805401</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1504560805402</updated>
+    </task>
+    <task id="LOCAL-00273" summary="Version 1.0.0-M1">
+      <created>1504560889049</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1504560889049</updated>
+    </task>
+    <task id="LOCAL-00274" summary="Release 0.8.0">
+      <created>1504561742109</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1504561742109</updated>
+    </task>
+    <task id="LOCAL-00275" summary="Version 1.0.0-M1">
+      <created>1504562598104</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1504562598104</updated>
+    </task>
+    <task id="LOCAL-00276" summary="Make it FAST! :D">
+      <created>1506462684590</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1506462684592</updated>
+    </task>
+    <task id="LOCAL-00277" summary="downgrade some js dependencies (react, webpack) to make demo work again">
+      <created>1521318085170</created>
+      <option name="number" value="00277" />
+      <option name="presentableId" value="LOCAL-00277" />
+      <option name="project" value="LOCAL" />
+      <updated>1521318085171</updated>
+    </task>
+    <task id="LOCAL-00278" summary="bump sbt version">
+      <created>1521318094782</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1521318094782</updated>
+    </task>
+    <task id="LOCAL-00279" summary="Cut compile time by removing some of the insane number of implicit resolutions done after the macro expansion. I don't think we lose much type safety from this">
+      <created>1521318210514</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1521318210514</updated>
+    </task>
+    <task id="LOCAL-00280" summary="Cut compile time by removing some of the insane number of implicit resolutions done after the macro expansion. I don't think we lose much type safety from this">
+      <created>1521323790053</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1521323790053</updated>
+    </task>
+    <task id="LOCAL-00281" summary="Cut compile time by removing some of the insane number of implicit resolutions done after the macro expansion. I don't think we lose much type safety from this">
+      <created>1521324047362</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1521324047362</updated>
+    </task>
+    <task id="LOCAL-00282" summary="improve event debugger">
+      <created>1521330771228</created>
+      <option name="number" value="00282" />
+      <option name="presentableId" value="LOCAL-00282" />
+      <option name="project" value="LOCAL" />
+      <updated>1521330771228</updated>
+    </task>
+    <task id="LOCAL-00283" summary="fix menu demo">
+      <created>1521330777564</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1521330777564</updated>
+    </task>
+    <task id="LOCAL-00284" summary="let's see if we can get travis going">
+      <created>1521330958000</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1521330958000</updated>
+    </task>
+    <task id="LOCAL-00285" summary="bump scalajs bundler. &#10;&#10;This makes sbt think javascript tests for the demo project work. They dont. We also don't have any, so I'm letting that slip for now">
+      <created>1521332258250</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1521332258250</updated>
+    </task>
+    <option name="localTasksCounter" value="286" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="881510000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="35" width="2880" height="1728" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.53413403" />
+      <window_info anchor="right" id="sbt" order="3" weight="0.1388889" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.57299036" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49583334" weight="0.71681416" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.67350864" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="right" id="Designer" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20763889" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="14" weight="0.32947975" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32935718" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.6788875" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39961514" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Properties" order="1" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="12" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
+      <window_info anchor="right" id="SBT" order="11" weight="0.15972222" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32935718" />
+      <window_info anchor="right" id="Designer" order="9" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="right" id="sbt" order="3" weight="0.1388889" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="14" weight="0.32947975" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.67350864" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Properties" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SBT" order="11" weight="0.15972222" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.57299036" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.53413403" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="Application Servers" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49583334" visible="true" weight="0.71681416" />
+      <window_info id="Nl-Palette" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.6788875" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20763889" />
+      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" id="Dynamic Properties" order="0" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39961514" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="origin-rleibman/scalajs-react-v1.0.0" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="BEK_SORT_TYPE" value="1" />
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="material-ui-0.15" />
+            </list>
+          </option>
+        </UserGroup>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="play" />
+            </list>
+          </option>
+        </UserGroup>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="origin/gh-pages" />
+            </list>
+          </option>
+        </UserGroup>
+        <UserGroup>
+          <option name="users">
+            <list>
+              <option value="HEAD" />
+            </list>
+          </option>
+        </UserGroup>
+      </collection>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="restore macro test" />
+    <MESSAGE value="fix geom-icon, infinite, tags-input, spinner with JSImport. Fix bug in react-table" />
+    <MESSAGE value="continue work on using imports, prod webpack config, fix draggable component" />
+    <MESSAGE value="continue work on using imports, prod webpack config, fix draggable component, trim languages from hljs, fix popover" />
+    <MESSAGE value="fix tests" />
+    <MESSAGE value="lets see if travis want to cooperate" />
+    <MESSAGE value="lets see without yarn then" />
+    <MESSAGE value="can i have newer node?" />
+    <MESSAGE value="ok, lets try something else" />
+    <MESSAGE value="bump scala.js plugin while we're at it" />
+    <MESSAGE value="add credits in pom" />
+    <MESSAGE value="bump readme" />
+    <MESSAGE value="blind travis debugging" />
+    <MESSAGE value="sudo" />
+    <MESSAGE value="Reorganizing everything: Including the generator in the project, use @JSImport with scalajs-bundler, upgrade mui/sui/eui versions, kill react-select and react-slick as they are too outdated and i have no time to update them" />
+    <MESSAGE value="Release 0.8.0" />
+    <MESSAGE value="Version 1.0.0-M1" />
+    <MESSAGE value="downgrade some js dependencies (react, webpack) to make demo work again" />
+    <MESSAGE value="bump sbt version" />
+    <MESSAGE value="Make it FAST! :D" />
+    <MESSAGE value="Cut compile time by removing some of the insane number of implicit resolutions done after the macro expansion. I don't think we lose much type safety from this" />
+    <MESSAGE value="improve event debugger" />
+    <MESSAGE value="fix menu demo" />
+    <MESSAGE value="let's see if we can get travis going" />
+    <MESSAGE value="bump scalajs bundler. &#10;&#10;This makes sbt think javascript tests for the demo project work. They dont. We also don't have any, so I'm letting that slip for now" />
+    <option name="LAST_COMMIT_MESSAGE" value="bump scalajs bundler. &#10;&#10;This makes sbt think javascript tests for the demo project work. They dont. We also don't have any, so I'm letting that slip for now" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/gen/src/main/scala/com/olvind/requiresjs/Require.scala</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/gen/src/main/scala/com/olvind/componentParsers.scala</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/macros/src/test/scala/chandu0101/macros/tojs/JSMacroTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/JSConverters.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1604">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/WrappedArray.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/semanticui/SuiMenu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/elementalui/EuiButton.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="172" column="1" lean-forward="true" selection-start-line="172" selection-start-column="1" selection-end-line="172" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/src/main/scala/com/olvind/printers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="809">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/src/main/scala/com/olvind/props.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="707">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/macros/Universe.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1238">
+          <caret line="495" lean-forward="true" selection-start-line="495" selection-end-line="495" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.12.4/lib/scala-reflect.jar!/scala/reflect/macros/blackbox/Context.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="2" column="46" lean-forward="true" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/api/TypeTags.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="338" column="6" selection-start-line="338" selection-start-column="6" selection-end-line="338" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/api/Types.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="587" column="8" lean-forward="true" selection-start-line="587" selection-start-column="8" selection-end-line="587" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/scala/chandu0101/scalajs/react/components/ReactGeomIcon.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiDropDownMenu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="101" column="3" lean-forward="true" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiStepLabel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/semanticui/SuiMenuItem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="54" column="4" lean-forward="true" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/api/Quasiquotes.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="9" column="72" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/scala/demo/components/materialui/MuiSwitchesDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiAppBar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="964">
+          <caret line="71" column="23" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.japgolly.scalajs-react/core_sjs0.6_2.12/srcs/core_sjs0.6_2.12-1.1.1-sources.jar!/japgolly/scalajs/react/vdom/ReactVdom.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.japgolly.scalajs-react/core_sjs0.6_2.12/srcs/core_sjs0.6_2.12-1.1.1-sources.jar!/japgolly/scalajs/react/vdom/Tag.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/macros/Typers.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiCheckbox.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/semanticui/SuiGrid.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1159">
+            <caret line="71" selection-start-line="71" selection-end-line="71" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/semanticui/SuiButton.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-804">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.4-sources.jar!/scala/reflect/macros/FrontEnds.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/Any.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/macros/src/main/scala/chandu0101/macros/tojs/JSMacro.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="721">
+          <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/target/scala-2.12/scalajs-bundler/main/scalajs-react-components-demo-opt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="99654" column="25" selection-start-line="99654" selection-start-column="25" selection-end-line="99654" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/target/scala-2.12/scalajs-bundler/main/node_modules/material-ui/Menu/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/target/scala-2.12/scalajs-bundler/main/node_modules/material-ui/Menu/Menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="511" column="13" selection-start-line="511" selection-start-column="2" selection-end-line="511" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.12/srcs/scalajs-dom_sjs0.6_2.12-0.9.4-sources.jar!/org/scalajs/dom/raw/lib.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="6977" column="6" selection-start-line="6977" selection-start-column="6" selection-end-line="6977" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.github.japgolly.scalajs-react/core_sjs0.6_2.12/srcs/core_sjs0.6_2.12-1.1.1-sources.jar!/japgolly/scalajs/react/Callback.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="125" column="22" selection-start-line="125" selection-start-column="22" selection-end-line="125" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/Object.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="210" column="6" selection-start-line="210" selection-start-column="6" selection-end-line="210" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/UndefOr.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="114" column="21" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/util/Try.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="208" column="7" lean-forward="true" selection-start-line="208" selection-start-column="7" selection-end-line="208" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/JSON.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1091">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/scala/demo/components/CallbackDebug.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/collection/SetLike.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiMenuItem.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/Array.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="173" column="7" selection-start-line="173" selection-start-column="7" selection-end-line="173" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiMenu.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-js/scalajs-library_2.12/srcs/scalajs-library_2.12-0.6.22-sources.jar!/scala/scalajs/js/Function.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiFlatButton.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/target/scala-2.12/src_managed/main/chandu0101/scalajs/react/components/materialui/MuiToggle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/scala/demo/components/materialui/MuiMenuDemo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/plugins.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/ch.epfl.scala/sbt-scalajs-bundler/srcs/sbt-scalajs-bundler-0.9.0-sources.jar!/scalajsbundler/sbtplugin/ScalaJSBundlerPlugin.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.445977" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>SBT: com.github.japgolly.scalacss:core_sjs0.6_2.12:0.5.3:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.445977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
